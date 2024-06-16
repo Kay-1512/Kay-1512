@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Michaela. An aspiring software engineer.
-- 🌱 I’m currently learning Java 
+- 🌱 I’m currently learning React
 - 📫 How to reach me :
   - email -> mikaelamcrowdie@outlook.com
   - phone -> 0695519408
