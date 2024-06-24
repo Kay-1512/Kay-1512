@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Michaela. An aspiring software engineer.
+- 👋 Hi, I’m Michaela.
 - 🌱 I’m currently learning React
 - 📫 How to reach me :
   - email -> mikaelamcrowdie@outlook.com
